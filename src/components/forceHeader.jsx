@@ -120,7 +120,7 @@ const ForceHeader = ({ listId }) => {
           </Form>
         </Grid.Row>
         <Grid.Row centered >
-          <Button content='Return to Load List' onClick={returnToFront} />
+          <Button content='Force Selection' onClick={returnToFront} />
           <Button content={reqExpanded ? 'Hide Requisition Log' : 'Show Requsition Log'} onClick={() => setReqExpanded(!reqExpanded)} />
         </Grid.Row>
       </Grid>
