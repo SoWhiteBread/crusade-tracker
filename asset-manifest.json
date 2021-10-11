@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crusade-tracker/static/css/main.478646fc.chunk.css",
-    "main.js": "/crusade-tracker/static/js/main.f6786867.chunk.js",
-    "main.js.map": "/crusade-tracker/static/js/main.f6786867.chunk.js.map",
+    "main.js": "/crusade-tracker/static/js/main.6cba93c3.chunk.js",
+    "main.js.map": "/crusade-tracker/static/js/main.6cba93c3.chunk.js.map",
     "runtime-main.js": "/crusade-tracker/static/js/runtime-main.50f4d907.js",
     "runtime-main.js.map": "/crusade-tracker/static/js/runtime-main.50f4d907.js.map",
     "static/css/2.6e99f157.chunk.css": "/crusade-tracker/static/css/2.6e99f157.chunk.css",
@@ -31,6 +31,6 @@
     "static/css/2.6e99f157.chunk.css",
     "static/js/2.9b20c1a3.chunk.js",
     "static/css/main.478646fc.chunk.css",
-    "static/js/main.f6786867.chunk.js"
+    "static/js/main.6cba93c3.chunk.js"
   ]
 }
