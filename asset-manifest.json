@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/crusade-tracker/static/css/main.478646fc.chunk.css",
+    "main.js": "/crusade-tracker/static/js/main.f6786867.chunk.js",
+    "main.js.map": "/crusade-tracker/static/js/main.f6786867.chunk.js.map",
+    "runtime-main.js": "/crusade-tracker/static/js/runtime-main.50f4d907.js",
+    "runtime-main.js.map": "/crusade-tracker/static/js/runtime-main.50f4d907.js.map",
+    "static/css/2.6e99f157.chunk.css": "/crusade-tracker/static/css/2.6e99f157.chunk.css",
+    "static/js/2.9b20c1a3.chunk.js": "/crusade-tracker/static/js/2.9b20c1a3.chunk.js",
+    "static/js/2.9b20c1a3.chunk.js.map": "/crusade-tracker/static/js/2.9b20c1a3.chunk.js.map",
+    "static/js/3.6c42c04d.chunk.js": "/crusade-tracker/static/js/3.6c42c04d.chunk.js",
+    "static/js/3.6c42c04d.chunk.js.map": "/crusade-tracker/static/js/3.6c42c04d.chunk.js.map",
+    "index.html": "/crusade-tracker/index.html",
+    "static/css/2.6e99f157.chunk.css.map": "/crusade-tracker/static/css/2.6e99f157.chunk.css.map",
+    "static/css/main.478646fc.chunk.css.map": "/crusade-tracker/static/css/main.478646fc.chunk.css.map",
+    "static/js/2.9b20c1a3.chunk.js.LICENSE.txt": "/crusade-tracker/static/js/2.9b20c1a3.chunk.js.LICENSE.txt",
+    "static/media/Dedicated Transport.svg": "/crusade-tracker/static/media/Dedicated Transport.5102f531.svg",
+    "static/media/Elites.svg": "/crusade-tracker/static/media/Elites.331fe7fa.svg",
+    "static/media/Fast Attack.svg": "/crusade-tracker/static/media/Fast Attack.c7ad68aa.svg",
+    "static/media/Flyer.svg": "/crusade-tracker/static/media/Flyer.a877c2eb.svg",
+    "static/media/Fortification.svg": "/crusade-tracker/static/media/Fortification.4bd10408.svg",
+    "static/media/HQ.svg": "/crusade-tracker/static/media/HQ.f47f328b.svg",
+    "static/media/Heavy Support.svg": "/crusade-tracker/static/media/Heavy Support.bdc82124.svg",
+    "static/media/Lord of War.svg": "/crusade-tracker/static/media/Lord of War.d4c85038.svg",
+    "static/media/Troops.svg": "/crusade-tracker/static/media/Troops.f345a6fd.svg",
+    "static/media/semantic.css": "/crusade-tracker/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/swords.svg": "/crusade-tracker/static/media/swords.476334db.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50f4d907.js",
+    "static/css/2.6e99f157.chunk.css",
+    "static/js/2.9b20c1a3.chunk.js",
+    "static/css/main.478646fc.chunk.css",
+    "static/js/main.f6786867.chunk.js"
+  ]
+}
